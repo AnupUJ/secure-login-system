@@ -14,7 +14,7 @@ A simple and secure login system built using Python Flask, HTML, CSS, and SQLite
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - Flask
@@ -25,7 +25,7 @@ A simple and secure login system built using Python Flask, HTML, CSS, and SQLite
 
 ---
 
-##system output-
+## system output-
 <img width="1366" height="768" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/91f6ea65-8162-4c82-818e-1763be555925" />
 
 
